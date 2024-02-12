@@ -1,0 +1,17 @@
+img{
+    width: 40vh;
+    margin-right: 1vw;
+}
+.div-main-cards{
+    display: flex;
+    margin-bottom: 5vh;
+}
+
+h2{
+    margin-bottom: 1vh;
+    margin-top: -1vh;
+}
+
+p{
+    color: rgba(243, 251, 251, 0.496);
+}

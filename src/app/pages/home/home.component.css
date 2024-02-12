@@ -1,0 +1,14 @@
+.div-main-cards{
+    margin-top: 15vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div-big-card{
+    width: 40%;
+    height: 70vh;
+}
+
+.div-small-card{
+    width: 50%;
+}

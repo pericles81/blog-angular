@@ -1,0 +1,10 @@
+.div-tittle{
+    margin: 10vh 2vw 15vh 100vh;
+}
+.div-menu-bar{
+    margin-top: 3vh;
+    margin-left: 35%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
